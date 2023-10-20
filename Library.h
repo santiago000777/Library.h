@@ -19,5 +19,3 @@
 #include <random>
 #include <ctime>
 #include <map>
-
-using namespace std;
